@@ -27,3 +27,5 @@ Python crawler to downlaod Movie,Tv series, anime, games, apps and other stuff f
     7.webbrowser
     8.selenium
 
+# Note:
+    In case Connection failed Try using with some VPN, Your ISP must have blocked the source server.
